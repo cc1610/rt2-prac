@@ -1,3 +1,6 @@
 Hello World!
+ NEW CLEANED VERSION
+changing branch claire
 
-DELETED STUFF
+making a CLASH edit!!
+>>>>>>> claire
